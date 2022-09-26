@@ -1,0 +1,19 @@
+img{
+    height: 100px;
+    width: auto;  
+    border-width: 1px;
+    border-style: groove;
+    border-color: rgb(58, 58, 58);
+    box-shadow: #00000030 1px 5px 10px;  
+}
+.products{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    margin-top: 1rem;
+    align-items: center;
+    text-align: center;
+    margin-top: 10rem;
+    
+}
+
+

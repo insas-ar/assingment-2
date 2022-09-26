@@ -1,0 +1,32 @@
+.Navbar{
+    background-color:skyblue ;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-width: 1px;
+    border-style: groove;
+    border-color: rgb(58, 58, 58);
+    box-shadow: #00000030 1px 5px 10px;  
+
+}
+.logo{
+    color: darkblue;
+    justify-self: start;
+    margin-left: 10px;
+    
+}
+.items{
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+    list-style: none;
+    grid-gap:70px;
+    margin-left: 400px;
+    
+}
+.nav-links:hover {
+    background-color: lightblue;
+    border-radius: 4px;
+    transition: all 1s ease-out;
+
+}

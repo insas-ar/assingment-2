@@ -1,0 +1,30 @@
+[
+    {
+        "name":"start-up 1",
+        "source":"image1.jpg",
+        "founder":"Founder:-Rahul",
+        "cName":"image",
+        "rating":"Stars:- 4.4"
+    },
+    {
+        "name":"start-up 2",
+        "source":"image2.jpg",
+        "founder":"Founder:-Priyesh",
+        "cName":"image",
+        "rating": "Stars:- 4.3"
+    },
+    {
+        "name":"start-up 3",
+        "source":"image3.jpg",
+        "founder":"Founder:-Ganesh",
+        "cName":"image",
+        "rating": "Stars:- 4"
+    },
+    {
+        "name":"start-up 4",
+        "source":"image4.jpg",
+        "founder":"Founder:-Manjeet",
+        "cName":"image",
+        "rating": "Stars:- 4.1"
+    }
+]

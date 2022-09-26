@@ -1,0 +1,19 @@
+[
+    {
+        "name":"Mr. Rahul Patil",
+        "source":"image5.jpg",
+        "rating": 4.4
+    },
+    {
+        "name":"Mr. Priyesh Gaonkar",
+        "source":"image6.jpg",
+        "rating": 4.3
+    },
+    {
+        "name":"Mr. Ganesh Gaonkar",
+        "source":"image7.jpg",
+        "rating": 4.5
+    }
+    
+
+]
